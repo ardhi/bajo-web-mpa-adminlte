@@ -1,4 +1,0 @@
-{
-  "alias": "adminlte",
-  "dependencies": ["bajo-web-mpa", "bajo-web-static"]
-}
